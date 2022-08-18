@@ -1,0 +1,20 @@
+{
+  "name": "scope-closure",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/andfelsil98/scope-closure-js.git"
+  },
+  "keywords": [],
+  "author": "Andres Felipe Silva Moreno <and_fel_sil1998@hotmail.com>",
+  "license": "MIT`",
+  "bugs": {
+    "url": "https://github.com/andfelsil98/scope-closure-js/issues"
+  },
+  "homepage": "https://github.com/andfelsil98/scope-closure-js#readme"
+}
